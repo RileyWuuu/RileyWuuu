@@ -1,10 +1,4 @@
-<div class="fa-3x">
-  <i class="fa-solid fa-circle-plus fa-beat"></i>
-  <i class="fa-solid fa-heart fa-beat"></i>
-  <i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s;" ></i>
-  <i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 2s;"></i>
-  <i class="fa-solid fa-heart fa-beat" style="--fa-beat-scale: 2.0;"></i>
-</div>
+
 <h2> Hi There, Welcome to my profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
